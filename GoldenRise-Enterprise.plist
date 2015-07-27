@@ -40,8 +40,6 @@
 		<string>1.0.0</string>
 		<key>kind</key>
 		<string>software</string>
-		<key>subtitle</key>
-		<string>金投会测试</string>
 		<key>title</key>
 		<string>金投会</string>
 	</dict>
