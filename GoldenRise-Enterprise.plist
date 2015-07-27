@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://image.yiji.com/upload/e8//uploadfile/images/2014-10/10/110_1534069487.ipa</string>
+					<string>https://www.jintouhui.com/static/front/assets/app/GoldenRise-Enterprise.ipa</string>
 				</dict>
 			</array>
 		</dict>
@@ -19,9 +19,9 @@
 	<key>metadata</key>
 	<dict>
 		<key>bundle-identifier</key>
-		<string>com.yiji.Register</string>
+		<string>com.finance.jthEnterpriseDistribution</string>
 		<key>bundle-version</key>
-		<string>1.0</string>
+		<string>1.0.0</string>
 		<key>kind</key>
 		<string>software</string>
 		<key>title</key>
